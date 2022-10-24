@@ -1,0 +1,26 @@
+{
+  "name": "curso_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Platzi-courses-completed/Curso_cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Platzi-courses-completed/Curso_cypress/issues"
+  },
+  "homepage": "https://github.com/Platzi-courses-completed/Curso_cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "json-server": "^0.17.0",
+    "prettier": "^2.7.1"
+  }
+}
